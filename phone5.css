@@ -1,0 +1,72 @@
+body
+{
+
+    width: 133%;
+}
+/* common class */
+p
+{
+    font-size: 0.6rem;
+}
+/* navigation */
+#nav ul
+{
+    font-size: 6px;
+}
+/* home / order */
+#order
+{
+    margin-top: -40px;
+    margin-bottom: 30px;
+}
+#order h1
+{
+    font-size: 1.6rem;
+}
+#order::before
+{
+    width: 133%;
+}
+/* service  */
+.box
+{
+    width: 200px;
+    height: 230px;
+}
+#ss img
+{
+    height: 67px;
+    width: 86px;
+}
+#ss h3
+{
+    font-size: 25px;
+}
+/* client */
+#client ul
+{
+    flex-wrap: wrap;
+}
+#cl ul li img
+{
+    height: 54px;
+    width: 63px;
+}
+#client::before
+{
+    width: 133%;
+}
+/* contact us */
+#contact form
+{
+    font-size: 1.5rem;
+}
+#contact form input
+{
+    width: 230px;
+}
+#contact::before
+{
+    width: 133%;
+}
+/* fotter */

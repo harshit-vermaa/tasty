@@ -1,0 +1,29 @@
+
+/* navigation */
+#nav
+{
+    flex-direction: column;
+    height: 165px;
+}
+#logo
+{
+margin: -40px;
+}
+
+/* home / order */
+
+/* service  */
+#ss
+{
+    flex-direction: column;
+    align-items: center;
+}
+
+/* client */
+#client
+{
+    overflow: hidden;
+}
+/* contact us */
+
+/* fotter */

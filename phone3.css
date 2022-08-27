@@ -1,0 +1,44 @@
+
+/* common class */
+p
+{
+    font-size: 1rem;
+}
+/* navigation */
+#nav ul
+{
+    font-size: 12px;
+}
+/* home / order */
+#order h1
+{
+    font-size: 2rem;
+}
+/* service  */
+#service
+{
+    margin-top: -50px;
+}
+.box
+{
+    width: 335px;
+    height: 306px;
+}
+
+
+/* client */
+#cl ul
+{
+    flex-wrap: wrap;
+    align-items: center;
+    text-align-last: center;
+    justify-content: center;
+}
+#cl ul li img
+{
+    height: 87px;
+    width: 105px;
+}
+/* contact us */
+
+/* fotter */

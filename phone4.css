@@ -1,0 +1,48 @@
+
+/* common class */
+.h1
+{
+    font-size: 1.9rem;
+}
+p
+{
+    font-size: 0.8rem;
+}
+/* navigation */
+#nav ul
+{
+    font-size: 9px;
+}
+/* home / order */
+#order h1
+{
+    font-size: 1.7rem;
+}
+#order::before
+{
+    height: 640px;
+}
+/* service  */
+#service
+{
+    margin-top: -106px;
+}
+.box
+{
+ width: 245px;
+ height: 270px;
+}
+.box h3
+{
+    font-size: 1.8rem;
+}
+
+/* client */
+
+/* contact us */
+
+/* fotter */
+footer
+{
+    font-size: 12px;
+}
